@@ -13,20 +13,30 @@ You can click the Preview link to take a look at your changes.
 <br>👋 Hi! I'm Yi kanghoon, one of the most creative embedded programmer in the foreseeable future.<br/>
 
 ### 👀 I’m Interested in ...
-1. `C language`
+1. `C`
 2. `Python`
 3. `C++ (for using Arduino)`
 4. `HTML`
-5. `Javascript/CSS`<br/>
+5. `Javascript/CSS`
+6. `NodeJS`
+7. `ReactJS`<br/>
 
 ### 🌱 I’m Currently Learning ...
-1. `C language`
-2. `C++ (for using Arduino)`<br/>
+1. `C`
+2. `C++ (for using Arduino)`
+3. `NodeJS`
+4. `ReactJS`<br/>
 
 ### My Development Environment<br>
-![Atom Badge](https://img.shields.io/badge/Atom-66595c?style=?style=flat-square&logo=Atom&logoColor=white) ![Slack Badge](https://img.shields.io/badge/Slack-4a154b?style=?style=flat-square&logo=Slack&logoColor=white)<br/>
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=?style=flat-square&logo=Ubuntu&logoColor=white) ![Windows Badge](https://img.shields.io/badge/Linux-FCC624?style=?style=flat-square&logo=Linux&logoColor=white) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=?style=flat-square&logo=Windows&logoColor=white)
+
+![Atom Badge](https://img.shields.io/badge/Atom-66595c?style=?style=flat-square&logo=Atom&logoColor=white) ![Visual Studio Code Badge](https://img.shields.io/badge/VisualStudioCode-007ACC?style=?style=flat-square&logo=VisualStudioCode&logoColor=white)
+
+
+
+![Slack Badge](https://img.shields.io/badge/Slack-4a154b?style=?style=flat-square&logo=Slack&logoColor=white)<br/>
 
 ### To contact me ...<br>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k.hoon_yi_dev/)](https://www.instagram.com/k.hoon_yi_dev/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k.hoon_life/)](https://www.instagram.com/k.hoon_life/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon5083&show_icons=true&theme=vue)
