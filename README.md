@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Yi kanghoon
-<br>👋 Hi! I'm Yi kanghoon, one of the most creative embedded programmer in the foreseeable future.<br/>
+<br>👋 Hi! I'm Yi kanghoon.<br/>
 
 ### 👀 I’m Interested in ...
 1. `C`
