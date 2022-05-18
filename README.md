@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 ![Slack Badge](https://img.shields.io/badge/Slack-4a154b?style=?style=flat-square&logo=Slack&logoColor=white)<br/>
 
 ### To contact me ...<br>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k.hoon_life/)](https://www.instagram.com/k.hoon_life/)<br/>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/k.hoon_life/)](https://www.instagram.com/k.hoon_life/)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon5083&langs_count=5&layout=compact&theme=dark)](https://github.com/hoon5083/hoon5083)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon5083&show_icons=true&theme=vue)
