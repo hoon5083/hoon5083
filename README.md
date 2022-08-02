@@ -18,5 +18,5 @@
 
 ### 📭 To contact me ...<br>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&labelColor=282828&link=https://www.instagram.com/k.hoon_life/)](https://www.instagram.com/k.hoon_life/)<br>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&labelColor=282828&link=https://www.instagram.com/k.hoon_life/)](https://www.instagram.com/k.hoon_life/)<br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon5083&langs_count=5&theme=dark)](https://github.com/hoon5083/hoon5083) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon5083&show_icons=true&theme=codeSTACKr&count_private=true&line_height=40)
